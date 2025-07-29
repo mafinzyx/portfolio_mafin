@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Zherzdiev - Full-Stack Developer Portfolio",
+  title: "mafin.web",
   description: "Personal portfolio of Zherzdiev, a passionate Full-Stack Developer specializing in React, Next.js, TypeScript, and modern web technologies.",
   keywords: ["developer", "portfolio", "react", "nextjs", "typescript", "full-stack", "web development"],
   authors: [{ name: "Zherzdiev" }],
@@ -19,14 +19,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://zherzdiev.com'),
+  metadataBase: new URL('https://mafin.web'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: "Zherzdiev - Full-Stack Developer Portfolio",
+    title: "mafin.web",
     description: "Personal portfolio of Zherzdiev, a passionate Full-Stack Developer specializing in React, Next.js, TypeScript, and modern web technologies.",
-    url: 'https://zherzdiev.com',
+    url: 'https://mafin.web',
     siteName: 'Zherzdiev Portfolio',
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Zherzdiev - Full-Stack Developer Portfolio",
+    title: "mafin.web",
     description: "Personal portfolio of Zherzdiev, a passionate Full-Stack Developer specializing in React, Next.js, TypeScript, and modern web technologies.",
     images: ['/og-image.jpg'],
   },

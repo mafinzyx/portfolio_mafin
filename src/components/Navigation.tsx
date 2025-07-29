@@ -44,7 +44,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center hover:scale-105 transition-transform duration-200">
             <span className="text-xl font-bold text-slate-900 dark:text-white">
-              mafin.com
+              mafin.web
             </span>
           </div>
           
